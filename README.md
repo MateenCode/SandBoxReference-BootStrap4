@@ -2,7 +2,6 @@
 
 A application that covers everything bootstrap4 has to offer
 
-https://mateencode.github.io/SandBoxReference-BootStrap4/
 
 ## ScreenShot
 
